@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class TicketOffice {
-    private final List<Integer> lottoNumber = new ArrayList<Integer>();
+    private final List<Integer> lottoNumber = new ArrayList<>();
     private final int MAX_NUMBER = 45;
 
     public TicketOffice() {
